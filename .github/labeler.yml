@@ -1,0 +1,10 @@
+frontend:
+  - src/frontend/**
+
+backend:
+  - src/backend/**
+  - server/**
+
+docs:
+  - docs/**
+  - README.md
